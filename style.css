@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+}
+.main-banner .first-banner{
+    text-align: center;
+    
+}
+.first-banner h1{
+    padding-top: 80px;
+    font-size: 60px;
+    padding-left:300px ;
+    padding-right: 300px;
+    color: #fff;
+    
+}
+.first-banner p{
+    padding-top: 20px;
+    padding-left:250px ;
+    padding-right: 300px;
+    font-size: 20px;
+    color: white; 
+   
+}
+.main-banner{
+    background-image: url(image/donation13.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    max-width: 3000px;
+    background-size: cover;
+   
+} 
+.btn{
+   margin-top: 40px;
+   height: 50px;
+   width: 200px;
+   font-size: 24px;
+  background-image:linear-gradient(90deg,#F83292 ,#814096);
+   border: none;
+   color: #fff;
+   
+}
+.donate-today .donate-text{
+    text-align: center;
+    padding-top: 80px;
+}
+.donate-text h1{
+    font-size: 45px;
+}
+.main-box{
+    display: flex;
+    padding-left: 300px;
+    justify-content: space-evenly;
+    padding-right: 300px;
+    padding-top: 50px;
+   
+}
+.box{
+    
+   height: 70px;
+   width: 100px;
+   background-color:#F1EDEC;
+   text-align: center;
+   
+   
+}
+
+.input-area{
+    text-align: center;
+    padding-top: 50px;
+}
+input{
+    height: 60px;
+    width: 660px;
+    text-align: center;
+    border: 0px 0px 0px 0px solid ;
+}
+.donation-plan{
+    margin-top: 100px;
+}
+.donation-plan .text-area{
+    text-align: center;
+}
+.donation-plan .text-area h1{
+    font-size: 45px;
+
+}
+.donation-plan .text-area p{
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 40px;
+}
