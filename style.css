@@ -214,3 +214,8 @@ input{
     background: #0B0D17;
     
 }
+.footer h1{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
